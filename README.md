@@ -1,5 +1,11 @@
 ## Python Fastapi todos
 
+## Author
+
+Mehmethan Guven
+<br/>
+<a href='mailto:mehmethanguven@gmail.com<'>mehmethanguven@gmail.com</a>
+
 ### Installation and start
 
 ```console
